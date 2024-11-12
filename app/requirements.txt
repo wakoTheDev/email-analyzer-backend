@@ -7,3 +7,4 @@ scikit-learn==1.4.0
 gunicorn==21.2.0
 flask_cors
 nltk
+werkzeug==1.0.1
